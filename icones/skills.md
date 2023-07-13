@@ -1,4 +1,3 @@
-- [Voltar ao README](README.md)
 
 # Icones Skills
 
@@ -39,7 +38,8 @@ Altere em `&perline=3` o número desejato entre 1 e 50.
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=2)](https://skillicons.dev)
 
 ## Centralizando Ícones
-```html <p align="center">
+```html 
+<p align="center">
     <img src="https://skillicons.dev/icons?i=php,laravel,docker,c,react,java" />
 </p>
 
