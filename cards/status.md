@@ -151,8 +151,9 @@ O código acima é o código base, onde agora irei substituir com o tema `radica
 
 
 **Gradiente**
-
+```md
 ![{usuario} GitHub stats](https://github-readme-stats.vercel.app/api?username={usuario}\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+```
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 **Customizando**
